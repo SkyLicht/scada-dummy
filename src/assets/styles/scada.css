@@ -1,0 +1,12 @@
+:root {
+    --machine-default-color: #173a40;
+    --translate-default-color: #416166;
+    --pcb-default-color: green;
+    --cage-default-color: #ffbf00;
+    --robot-default-color: #c97900;
+    --robot-base-default-color: #1e588c;
+    --machine-running-color: #016630;
+    --machine-idle-color: #f59e0b;
+    --machine-alarm-color: #e7000b;
+    --machine-unknown-color: #64748b;
+}
